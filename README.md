@@ -1,10 +1,11 @@
 # digispark-PC-games-cheat-typer
 
-This is arduino code for digispatk tiny which has types cheats in a flash 
+This is arduino code for cheap Digispark USB Development Board
+which is acts as a hid and types in a flash 
 cheat codes are for GTA V and can be changed for other games
 
 
---requitements--
+--requirements--
 
 1 x Digispark USB Development Board
 2 x momentary switches
@@ -23,3 +24,9 @@ upload the code to digispark
 connect the digispark to one of the usb ports on pc
 press button 0 for player related cheats
 press button1 for vehicle spwaning cheats
+
+
+--info--
+
+web link for Digispark USB Development Board
+http://digistump.com/products/1
